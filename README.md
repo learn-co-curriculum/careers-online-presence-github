@@ -1,4 +1,4 @@
-# 9 Tips to Get Your GitHub Ready for Job-Seeking (and Two More to Make it Unstoppable)
+## 9 Tips to Get Your GitHub Ready for Job-Seeking (and Two More to Make it Unstoppable)
 
 Your GitHub profile isn’t just a portfolio of your code — it’s another part of your online presence, and arguably the most-specific tool a hiring manager has, without talking to you, to understanding how you’ll stack up as a candidate. Think hard about your GitHub, and what employers will see - and make your profile stand out.
 
@@ -61,7 +61,7 @@ Your GitHub profile isn’t just a portfolio of your code — it’s another par
 - Keep your code modular and DRY (‘Don’t Repeat Yourself’). Keep methods small, and create a chunk you can reuse in different places and stack in different orders. Stay away from ‘copy and paste.’
  
  
-# Bonus Tips
+## Bonus Tips
  
 #### Are There Tests?
 - Building out tests is impressive — especially at a junior level. 
