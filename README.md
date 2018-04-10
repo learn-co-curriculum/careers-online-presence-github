@@ -1,5 +1,20 @@
 
-# 9 Tips to Get Your GitHub Ready for Job-Seeking (and Two More to Make it Unstoppable)
+# 9 Tips to Get or Keep Your GitHub Ready for Job-Seeking (and Two More to Make it Unstoppable)
+
+Github isn't just a repository for code, it's become one of the most important "calling
+cards" for those seeking work in software development. Based on _**numerous**_ feedback
+sessions with employers we **know** that they look at these criteria when given a candidate's
+GitHub profile.
+
+Whether you are just starting out or are looking to make sure your GitHub portfolio presents
+you in the best possible light, the following steps will make sure you stand out as a
+candidate.
+
+Just like keeping a clean kitchen, following good hygiene _as you start_ is easier
+than dealing with a pile of dishes in the sink _later_. Try to embrace good hygiene
+as you go because you don't want to be daunted by cleanup while also looking for a job.
+You never know when a prospective employer is peeking in the kitchen, whether
+solicited or not! And if solicited, **expect** them to take a look at your "kitchen."
 
 Your GitHub profile isn’t just a portfolio of your code — it’s another part of your online presence, and arguably the most-specific tool a hiring manager has, without talking to you, to understanding how you’ll stack up as a candidate. Think hard about your GitHub, and what employers will see - and make your profile stand out.
 
