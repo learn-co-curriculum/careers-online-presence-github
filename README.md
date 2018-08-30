@@ -68,7 +68,7 @@ Your GitHub profile isn’t just a portfolio of your code — it’s another par
 
 
 #### 8. Focus on Project Structure and Organization
-- In regards to architecture and design, make sure it easy to figure out where to go in the project to locate the various functional areas and layers.
+- In regards to architecture and design, make sure it is easy to figure out where to go in the project to locate the various functional areas and layers.
 - Use relevant and well known design patterns/file structure (don’t go out on a crazy limb).
  
  
