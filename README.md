@@ -54,7 +54,7 @@ Your GitHub profile isn’t just a portfolio of your code — it’s another par
 
 
 #### 5. Commit Often
-- Make consistent (daily) contributions to your Github profile. Think GREEN BOXES! Your daily activity will show potential employers your level of activity each day, week, month - and commits should be frequent!
+- Make consistent (daily) contributions to your Github profile. Think GREEN BOXES! Your daily activity will show potential employers your level of activity each day, week, month - and commits should be frequent! Employers look for this.
  
  
 #### 6. Contribute to Open Source Projects. 
@@ -65,6 +65,7 @@ Your GitHub profile isn’t just a portfolio of your code — it’s another par
 #### 7. If You Fork Code, Actually Work on It. 
 - Create meaningful contributions to other people’s code; if you want to note a fork to return to later, delete the fork, but start the repo it came from. 
 - Your GitHub should communicate that you can build purposeful, meaningful apps and features. 
+- Companies are interested in what you are capable of creating, not that you completed a lesson; avoid arbitrarily pinning forked Learn.co lessons.
 
 
 #### 8. Focus on Project Structure and Organization
