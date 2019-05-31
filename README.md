@@ -59,7 +59,7 @@ The following steps will make sure you stand out as a candidate.
 
 
 #### 7. If You Fork Code, Actually Work on It. 
-- Create meaningful contributions to other people’s code; if you want to note a fork to return to later, delete the fork, but start the repo it came from. 
+- Create meaningful contributions to other people’s code; if you want to note a fork to return to later, delete the fork, but star the repo it came from. 
 - Your GitHub should communicate that you can build purposeful, meaningful apps/projects and features. 
 - Companies are interested in what you are capable of creating, not that you completed a lesson; avoid arbitrarily pinning forked Learn.co lessons.
 
