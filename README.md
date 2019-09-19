@@ -4,10 +4,24 @@
 Github isn't just a repository for code — it’s another part of your online presence, and arguably the most-specific tool a hiring manager has, without talking to you, to understand how you’ll stack up as a candidate. Based on _**numerous**_ feedback
 sessions with employers we **know** that your GitHub will be a critical step in their assessment of you as a candidate. 
 
-The following steps will make sure you stand out as a candidate.
+**Note:** Sometimes when graduates leave the program, their Git commits stop being attributed to them. This can happen for a variety of reasons. To ensure that commits that you make on your computer are associated to your GitHub profile, follow the steps below:
+>
+> 1. Open your [email settings in Github](https://github.com/settings/emails)
+> 2. In your terminal, run the command `git config user.email`
+> 3. Verify that the email in your terminal matches the email(s) listed in your GitHub profile
+>
+>If you don't see an email when you run the command above, follow the "Your Identity" section in the [First-time Git Setup Guide](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup#_your_identity).
+>
+>If you see an email when you run the command above but it's not listed in your GitHub profile, [add that email](https://github.com/settings/emails#email_label) so that your work is attributed to you.
+>
+>If you notice that your repository already has commits that aren't attributed to you, you can follow [the directions here](https://help.github.com/en/articles/changing-author-info) to update the attribution for each commit. _In order to find the old email, you can run "git log" in the repository. Since this action is "destructive", you need to make sure to clone down a NEW COPY of your repo into a separate folder on your computer to not destroy your only copy._
+
+
+**In addition to ensuring that you are authoring all your repos on GitHub properly per the steps above, the following will make sure you stand out as a candidate...**
 
 
 ## Tips for a Strong GitHub
+
 
 
 #### 1. Pin Projects to the Top of Profile
