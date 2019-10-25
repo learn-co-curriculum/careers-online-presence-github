@@ -1,5 +1,5 @@
 
-# 9 Tips to Get or Keep Your GitHub Ready for Job Seeking (and Two More to Make it Unstoppable)
+# 10 Tips to Get or Keep Your GitHub Ready for Job Seeking (and Two More to Make it Unstoppable)
 
 Github isn't just a repository for code — it’s another part of your online presence, and arguably the most-specific tool a hiring manager has, without talking to you, to understand how you’ll stack up as a candidate. Based on _**numerous**_ feedback
 sessions with employers we **know** that your GitHub will be a critical step in their assessment of you as a candidate. 
@@ -86,8 +86,15 @@ sessions with employers we **know** that your GitHub will be a critical step in 
 #### 9. Have Clean, Easy to Read Code on Your GitHub
 - Functions should be responsible for one thing in general.
 - Keep your code modular and DRY (‘Don’t Repeat Yourself’). Keep methods small, and create a chunk you can reuse in different places and stack in different orders. Stay away from ‘copy and paste.’
- 
- 
+
+
+#### 10. Ensure your Contributions Chart Reflects Your Activity
+- Show potential employers that you are serious, committed and continually developing your technical skills by having an active, consistently populated Contributions chart (they are looking at this).
+- You are responsible for ensuring your contributions are properly authored and showing up publicly in your Contributions chart. 
+- Follow the steps above at the beginning of this lesson to ensure that you are properly authoring your contributions.
+- [Read this](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/why-are-my-contributions-not-showing-up-on-my-profile) to ensure you understand how GitHub counts contributions (for example: forks to a commit do not count towards controbutions).
+
+
 # Bonus Tips
 
 ### Software Engineering:
