@@ -1,5 +1,5 @@
 
-# 10 Tips to Get or Keep Your GitHub Ready for Job Seeking (and Two More to Make it Unstoppable)
+# 10 Tips to Get or Keep Your GitHub Ready for Job Seeking (and Bonus Tips to Make it Unstoppable)
 
 Github isn't just a repository for code — it’s another part of your online presence, and arguably the most-specific tool a hiring manager has, without talking to you, to understand how you’ll stack up as a candidate. Based on _**numerous**_ feedback
 sessions with employers we **know** that your GitHub will be a critical step in their assessment of you as a candidate. 
