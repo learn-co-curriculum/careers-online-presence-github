@@ -20,8 +20,7 @@ sessions with employers we **know** that your GitHub will be a critical step in 
 **In addition to ensuring that you are authoring all your repos on GitHub properly per the steps above, the following will make sure you stand out as a candidate...**
 
 
-## Tips for a Strong GitHub
-
+## 10 Tips to Get and Keep Your GitHub Ready for Job Seeking
 
 
 #### 1. Pin Projects to the Top of Profile
