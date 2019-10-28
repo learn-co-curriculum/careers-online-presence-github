@@ -89,8 +89,7 @@ sessions with employers we **know** that your GitHub will be a critical step in 
 
 #### 10. Ensure your Contributions Chart Reflects Your Activity
 - Show potential employers that you are serious, committed and continually developing your technical skills by having an active, consistently populated Contributions chart (they are looking at this).
-- You are responsible for ensuring your contributions are properly authored and showing up publicly in your Contributions chart. 
-- Follow the steps above at the beginning of this lesson to ensure that you are properly authoring your contributions.
+- You are responsible for ensuring your contributions are properly authored and showing up publicly in your Contributions chart. Follow the steps above at the beginning of this lesson to ensure that you are properly authoring your contributions.
 - [Read this](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/why-are-my-contributions-not-showing-up-on-my-profile) to ensure you understand how GitHub counts contributions (for example: forks to a commit do not count towards contributions).
 
 
