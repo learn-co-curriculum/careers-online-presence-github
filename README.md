@@ -2,7 +2,7 @@
 
 Github isn't just a repository for code — it’s another part of your online presence, and arguably the most specific tool a hiring manager has (without talking to you) to understand how you’ll stack up as a candidate. Based on _**numerous**_ feedback sessions with employers we **know** that your GitHub profile will be a critical step in their assessment of you as a candidate.
 
-> **Note:** Sometimes when graduates leave the program, they stop receiving attribution >for their Git commits (i.e. the link between their computer and their GitHub account >becomes severed). This can happen for a variety of reasons. To ensure the commits you >make on your computer are associated to your GitHub profile, follow the steps below:
+> **Note:** Sometimes when graduates leave the program, they stop receiving attribution >for their Git commits (i.e. the link between their computer and their GitHub account becomes severed). This can happen for a variety of reasons. To ensure the commits you make on your computer are associated to your GitHub profile, follow the steps below:
 >
 > 1. Open your [email settings in Github](https://github.com/settings/emails).
 > 2. In your terminal, run the command `git config user.email`.
