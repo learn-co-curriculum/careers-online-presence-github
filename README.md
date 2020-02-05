@@ -40,7 +40,8 @@ Github isn't just a repository for code — it’s another part of your online p
 - For software engineering students: READMEs can also include links to live apps - if Front End and Back End are broken into separate repos, provide a link to the other relevant portion.
 - If you wrote a blog post about your project, link it here.
 
-> Check out this [guide to writing a kick-ass README](https://medium.com/@meakaakka/>a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3) >**Extra tip:** While you can't embed a Youtube link (i.e. a project demo video) to a >README in GitHub, you can include a thumbnail using the code at the very bottom of >[this article](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links). >Adding a youtube thumbnail is not required, but looks snappy. :)
+> Check out this [guide to writing a kick-ass README](https://dev.to/scottydocs/how-to-write-a-kickass-readme-5af9) 
+>**Extra tip:** While you can't embed a Youtube link (i.e. a project demo video) to a >README in GitHub, you can include a thumbnail using the code at the very bottom of >[this article](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links). >Adding a youtube thumbnail is not required, but looks snappy. :)
 
 ### 4. Fill out ALL Profile Information
 
