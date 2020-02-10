@@ -37,7 +37,8 @@ Github isn't just a repository for code — it’s another part of your online p
 - All projects should have a README attached (gifs are highly recommended), which can be added/edited in the project repo.
 - READMEs can include wireframes or videos demonstrating project design and/or functionality.
 - This differs from a description as it should be longer, and about project functionality.
-- For software engineering students: READMEs can also include links to live apps - if Front End and Back End are broken into separate repos, provide a link to the other relevant portion.
+- For SOFTWARE ENGINEERING students: READMEs can also include links to live apps - if Front End and Back End are broken into separate repos, provide a link to the other relevant portion.
+- For DATA SCIENCE students: Your READMEs should also include some visual elements [graphs, gifs], just as you would include and present at science fair.
 - If you wrote a blog post about your project, link it here.
 
 > Check out this [guide to writing a kick-ass README](https://dev.to/scottydocs/how-to-write-a-kickass-readme-5af9) 
